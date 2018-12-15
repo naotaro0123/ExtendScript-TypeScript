@@ -1,0 +1,21 @@
+{
+  "name": "com.example.helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-typescript": "^5.0.0",
+    "types-for-adobe": "^1.4.1",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {}
+}
