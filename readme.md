@@ -17,7 +17,9 @@ macOS Mojave(ver 10.14.1)
 <br>
 
 ### 参考URL
-    
+
+[Photoshopのエクステンションを自作する](https://www.tam-tam.co.jp/tipsnote/tool/post14513.html)
+
 [AdobeCCのExtensionをBracketsで開発しよう ](http://cat.adodtp.com/2016/06/14/?p=114)
 
 [TypeScriptでPhotoshopを操る](https://qiita.com/ConquestArrow/items/8186e22467b5aae86a69)
