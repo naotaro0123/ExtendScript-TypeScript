@@ -24,6 +24,7 @@ macOS Mojave(ver 10.14.1)
 
 [TypeScriptでAfterEffects等のAdobeアプリを操作したい](https://qiita.com/sathoshi-metal/items/4f408c504b1b4aeede92)
 
+[VsCodeからPhotoshop連携できるプラグイン](https://marketplace.visualstudio.com/items?itemName=bialikover.vscode-to-photoshop)
 <br>
 
 ### 使い方
@@ -36,3 +37,4 @@ macOS Mojave(ver 10.14.1)
 ### 注意事項
 
 これでコード補完は効くが、フィルター系のファンクションなど一部のものは定義ファイルに入ってないようです。
+
